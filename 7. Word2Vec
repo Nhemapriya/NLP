@@ -1,0 +1,5 @@
+Word2Vec - Easily Explained
+
+=> The main drawback of BOW(Bag of Words) and TF-IDF is that the semantic information(ie meaning of the word is not considered) and the order in which the words occur in a sentence is not preserved.
+
+=> This might lead to overfitting
