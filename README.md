@@ -39,11 +39,11 @@
         
 ✔️ Advanced NLP 
 
-        🔹 LSTM - RNN
+        🔹 LSTM - RNN  (11.Fake News - LSTM.ipynb, 13. BidirectionalRNN.ipynb)
         
-        🔹 Bidirectional LSTM
+        🔹 LSTM - In depth (12. Stacked-LSTM.ipynb)
         
-        🔹 Encoders and Decoders
+        🔹 Encoders and Decoders (14. Encoder-Decoder.ipynb)
         
         🔹 Attention Models
         
