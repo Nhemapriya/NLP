@@ -45,6 +45,6 @@
         
         🔹 Encoders and Decoders (14. Encoder-Decoder.ipynb)
         
-        🔹 Attention Models
+        🔹 Attention Models (15. AttentionModel.ipynb)
         
 ✔️ Bert and Transformers
